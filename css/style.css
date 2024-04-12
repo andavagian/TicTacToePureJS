@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+    margin: auto;
+    margin-top: 30px;
+}
+
+td {
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 35px;
+    cursor: pointer;
+}
